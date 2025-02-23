@@ -1,0 +1,20 @@
+{
+    "androidAlias": "key0",
+    "androidAliasPassword": "mypassword",
+    "androidKeystore": "certificates/android.keystore",
+    "androidKeystorePassword": "mypassword",
+    "androidPackageType": "apk",
+    "googlePlayKey": "certificates/google.json",
+    "googlePlayTrack": "production",
+    "iosDevP12": "certificates/ios_development.p12",
+    "iosDevP12Password": "mypassword",
+    "iosDevelopment": "certificates/development.mobileprovision",
+    "iosDistP12": "certificates/ios_distribution.p12",
+    "iosDistP12Password": "mypassword",
+    "iosDistribution": "certificates/distribution.mobileprovision",
+    "iosPackageType": "app-store",
+    "appStoreConnectAccount": "somebody@somecompany.com",
+    "appStoreConnectAppPassword": "wxyz-ymul-hbqn-xxxx",
+    "release": "debug",
+    "verbose": true
+}
